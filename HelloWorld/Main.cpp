@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-	int x = 50;
+	int x = 40;
 	int w = 10;
 	cout << setw(10) << "VietNam" << setw(10) << "America" << setw(w) << "Germany"<<endl;
 	cout << "============================================="<<endl;
